@@ -3,6 +3,7 @@ name = "ws"
 entry = "mod.mire"
 
 [exports]
-_pal  = "_pal.mire"
-send  = "send/mod.mire"
-recv  = "recv/mod.mire"
+_pal   = "_pal.mire"
+send   = "send/mod.mire"
+recv   = "recv/mod.mire"
+server = "server/mod.mire"
