@@ -7,5 +7,5 @@ path = "kioto"
 
 [packages.owl]
 description = "Owl build system — CLI tool for project management, builds, testing, and packages"
-version = "0.13.1"
+version = "0.14.0"
 path = "owl"
